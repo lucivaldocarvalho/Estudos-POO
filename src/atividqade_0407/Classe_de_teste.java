@@ -16,7 +16,7 @@ public class Classe_de_teste {
         c.print();
 
 
-        for(int x = 0; x<=5; x++){ //lgdfrtyyyyy
+        for(int x = 0; x<=5; x++){ 
             if(x % 2 == 0)
                 System.out.println("É par !");
 
