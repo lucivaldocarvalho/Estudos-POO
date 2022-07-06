@@ -3,12 +3,13 @@ package atividqade_0407;
 public class Classe_de_teste {
     public static void main(String[] args) {
 
-        for(int x = 0; x<=5; x++){
+        for(int x =0 ; x<=5; x++){
+            
 
             Coveniado c =new Coveniado();
-        NaoCoveniado nc=new NaoCoveniado();
-        Coveniado c2 =new Coveniado();
-        NaoCoveniado nc2=new NaoCoveniado();
+         NaoCoveniado nc=new NaoCoveniado();
+         Coveniado    c2=new Coveniado();
+         NaoCoveniado nc2=new NaoCoveniado();
 
         c.setNome("ANA MARIA DIAS DANTAS");
         c.setCpf("01528526945");
